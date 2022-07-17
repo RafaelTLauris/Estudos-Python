@@ -2,7 +2,7 @@
 
 import math
 
-print('Calculadora do Rafajhones!')
+print('Calculadora do Rafa!')
 n1 = float(input('Digite um número: '))
 print('Escolha um desses operadores:')
 print(' +  -  X  / ')

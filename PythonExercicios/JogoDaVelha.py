@@ -1,4 +1,4 @@
-1#Recriar sozinho esse jogo
+#Recriar
 
 def menu():
     continuar = 1
